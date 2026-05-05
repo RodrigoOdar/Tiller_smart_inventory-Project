@@ -11,7 +11,7 @@ A project aimed at developing solutions to the challenges associated with invent
 * **Visualization:** Power BI
 * **Documentation:** Markdown
 
-* ## 📈 Dashboard Preview
+## 📈 Dashboard Preview
 Below are some snapshots of the interactive dashboard developed for this analysis:
 
 <img width="660" height="367" alt="tiller image1" src="https://github.com/user-attachments/assets/a96bfdf2-29cb-4817-929c-288054958b6f" />
