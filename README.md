@@ -17,3 +17,8 @@ Below are some snapshots of the interactive dashboard developed for this analysi
 <img width="660" height="367" alt="tiller image1" src="https://github.com/user-attachments/assets/a96bfdf2-29cb-4817-929c-288054958b6f" />
 <img width="659" height="369" alt="tiller image2" src="https://github.com/user-attachments/assets/65d2022a-4c50-4d10-853f-ddcd7577aa68" />
 <img width="659" height="368" alt="tiller image3" src="https://github.com/user-attachments/assets/7068ae08-f919-470e-91dd-f6bb0c17b1bd" />
+
+## 🚀 Run the Analysis
+You can open the interactive notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodrigoOdar/Tiller_smart_Inventory-Project/blob/main/3_Tiller_10_(DataSet_Completo_FINAL)Tiendas_8291_y_7304.ipynb)
